@@ -24,7 +24,7 @@ Predicted conflicting classifications for  ClinVar variants:
 
 • Explore features in Genetic Variant with Python Matplotlib, Seaborn
 
-•  Standardized numerical features by StandardScalar too improve the performance of machine learning algorithms such as Logistic Regression and SVM
+• Standardized numerical features by StandardScalar to improve the performance of machine learning algorithms such as Logistic Regression and SVM
 
 • Mitigate overfitting and tuned hyper-parameters for Stochastic Gradient Descent and Random Forest models via GridSearchCV
 
