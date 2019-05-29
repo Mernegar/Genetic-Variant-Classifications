@@ -20,7 +20,7 @@ Since this problem only relates to variants with multiple classifications, I rem
 The raw variant call format (vcf) file was downloaded here on Saturday, April 7th, 2018: ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh37/clinvar.vcf.gz
 
 ## Summary of Modeling
-Predicted conflicting classifications for  ClinVar variants:
+Predicted conflicting classifications for ClinVar variants:
 
 • Explore features in Genetic Variant with Python Matplotlib, Seaborn
 
