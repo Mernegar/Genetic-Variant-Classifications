@@ -30,4 +30,4 @@ Predicted conflicting classifications for  ClinVar variants:
 
 • Created a pipeline of optimized Logistic Regression, Stochastic Gradient Descent and AdaBoostClassifier with SMOTE in order to achieve better predictors
 
-• Stacked top three optimized models by assigning the highest weight to the best model to create the ultimate predictor and decrease the False Negative rates. The final outcome of the stacked model improved by 34%
+• Stacked top three optimized models by assigning the highest weight to the best model to create the ultimate predictor and decrease the False Negative rates. The final result of the stacked model improved by 36%
